@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483320109 source:c:\users\emil mammadov\desktop\maxmintoplam\notepad\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
